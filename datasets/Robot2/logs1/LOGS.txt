@@ -1,0 +1,4 @@
+Square: 2m
+Time: column 1
+LEFT Counter: column 2
+RIGHT Counter: column 3

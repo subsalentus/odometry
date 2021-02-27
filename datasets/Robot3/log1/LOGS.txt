@@ -1,0 +1,5 @@
+Square 1 m side
+Sraight line length: 2m
+Sampling 10ms
+LEFT counter difference: column 3
+RIGHT counter difference: column 4

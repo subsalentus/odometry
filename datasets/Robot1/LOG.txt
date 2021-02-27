@@ -1,0 +1,4 @@
+Square: 2990 mm side
+
+RIGHT COUNTER: column 2
+LEFT COUNTER: column 3
